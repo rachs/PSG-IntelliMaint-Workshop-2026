@@ -1,0 +1,13 @@
+build/
+dist/
+*.egg-info/
+*.egg
+*.log
+.cache
+__pycache__/
+anaconda_projects/
+Data
+outputs/
+**/.ipynb_checkpoints/
+.ipynb_checkpoints/
+.vscode/settings.json
