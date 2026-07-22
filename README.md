@@ -69,10 +69,10 @@ pip install torch torchvision
 
 ## 7. Download workshop tool data
 
-Download the workshop tool data from the following placeholder link:
+Download the workshop tool data from the following link:
 
 ```text
-https://example.com/workshop-tool-data
+https://intellipredikt1-my.sharepoint.com/:f:/g/personal/rachana_s_intellipredikt_com/IgD41Ogw2D9ZTZpPJFgiMkF4AWHkJpireiDMYXJTcgJQkbo?e=Ug0MtU 
 ```
 
 Place the downloaded data in the Data folder in this repository before running the notebooks.

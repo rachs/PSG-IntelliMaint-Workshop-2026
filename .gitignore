@@ -8,6 +8,7 @@ __pycache__/
 anaconda_projects/
 Data
 outputs/
+ignore/
 **/.ipynb_checkpoints/
 .ipynb_checkpoints/
 .vscode/settings.json
