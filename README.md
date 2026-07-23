@@ -13,7 +13,7 @@ Create and activate a new environment using Python 3.12:
 
 If using conda:
 ```bash
-conda create -n psg_workshop python=3.12 -y
+conda create -n psg_workshop python=3.12
 conda activate psg_workshop
 ```
 
